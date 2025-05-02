@@ -3,3 +3,4 @@ public class TestJava {
         System.out.println("Version 1 - Java");
     }
 }
+// Version 2 - Added logging feature
