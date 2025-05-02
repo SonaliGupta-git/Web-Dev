@@ -1,2 +1,3 @@
-console.log('Hello JavaScript');
-// Version 2 - Added feature
+function testJS() {
+    console.log("Version 1 - JavaScript");
+}
